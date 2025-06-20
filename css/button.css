@@ -1,5 +1,8 @@
 .MoveButton{
-    margin-top: 255px;
+    margin-top: 225px;
+    background-color: slategrey;
+    height: 100px;
+    width: 20px;
 }
 .imgSelecter{
     background-color: dimgray;
