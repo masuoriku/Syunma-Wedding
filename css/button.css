@@ -8,3 +8,8 @@
     background-color: dimgray;
     color: dimgrey;
 }
+.profile{
+    display: block
+    margin: 0;
+    padding: 0;
+}
