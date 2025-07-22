@@ -13,3 +13,13 @@
     margin: 0;
     padding: 0;
 }
+.menuAndDrink{
+    font-size: 10px;
+    color: brown;
+    font-family: Noto Serif Japanese;
+}
+.drinkDetail{
+    font-size: 14px;
+    color: brown;
+    font-family: Noto Serif Japanese;
+}
