@@ -27,7 +27,10 @@
     margin: 10px;
 }
 .last{
-    position: relative;
+    position: absolute;
+    width: 300px;
+    right: 1px;
+    top: 4270px;
 }
 .lastAist{
     position: absolute;
