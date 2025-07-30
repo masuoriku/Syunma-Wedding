@@ -26,6 +26,9 @@
     height:auto;
     margin: 10px;
 }
+.container{
+    position: relative;
+}
 .lastAist{
     position: absolute;
     bottom: 10px;
