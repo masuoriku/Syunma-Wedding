@@ -21,9 +21,8 @@
     color: darkred;
     font-family: Noto Serif Japanese;
 }
-.imgDetail{
-    margin-left: 10%;
-    margin-right: 10%;
+.profileImgDetail{
+    width: 280px;
 }
 .last{
     position: absolute;
