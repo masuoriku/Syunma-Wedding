@@ -23,8 +23,8 @@
 }
 .imgDetail{
     max-width:100%;
-    height:auto;
-    margin: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .last{
     position: absolute;
