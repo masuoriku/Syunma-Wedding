@@ -37,21 +37,21 @@
 }
 .background_W{
     overflow: auto;
-    background-image: url("田中太郎/backgroundIMG_W.png");
+    background-image: url("../田中太郎/backgroundIMG_W.png");
     background-repeat: repeat;
     background-attachment: local;
     background-size: auto;
 }
 .background_B{
     overflow: auto;
-    background-image: url("田中太郎/backgroundIMG_B.png");
+    background-image: url("../田中太郎/backgroundIMG_B.png");
     background-repeat: repeat;
     background-attachment: local;
     background-size: auto;
 }
 .background_G{
     overflow: auto;
-    background-image: url("田中太郎/backgroundIMG_G.png");
+    background-image: url("../田中太郎/backgroundIMG_G.png");
     background-repeat: repeat;
     background-attachment: local;
     background-size: auto;
