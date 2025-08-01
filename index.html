@@ -12,7 +12,7 @@
     <div style="text-align: center;">
       <!-- はじめの挨拶 -->
       <div class="background_W">
-        <img src="田中太郎/aist.png" class="img-fluid" data-aos="fade" data-aos-delay="300" deta-aos-easing="ease-in-out" alt="最初の挨拶">
+        <img src="田中太郎/aist.png" class="img-fluid" data-aos="fade" data-aos-delay="1000" deta-aos-easing="ease-in-out" alt="最初の挨拶">
       </div>
 
      <!-- プロフィール -->
@@ -113,7 +113,7 @@
       <!-- 席次表 -->
       <div class="background_G">
         <h1>Wedding<br>Reception</h1>
-        <div id="carouselExampleIndicators" class="carousel slide"　data-bs-touch="true">
+        <div id="carouselExampleIndicators" class="carousel slide" data-bs-touch="true">
           <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1" background-color: #1a2e4d>all</button>
             <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2">A列</button>
@@ -205,7 +205,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
-      AOS.init();
+      AOS.init({
+        offset: 300
+      });
     </script>
 </body>
 </html>
