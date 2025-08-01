@@ -11,8 +11,14 @@ h2{
 }
 h3{
     font-family: "Hiragino Mincho ProN", "Hiragino Mincho", serif;
-    font-size: 12px;
+    font-size: 14px;
     color: #444;
+    line-height: 1.6;
+}
+h4{
+    font-family: serif;
+    font-size: 15px;
+    color: #333;
 }
 .MoveButton{
     margin-top: 225px;
@@ -29,7 +35,7 @@ h3{
 }
 .drinkMenu{
     display: flex;
-    gap: 20px;
+    gap: 0px;
 }
 .drinkDetail{
     width: 50%;
