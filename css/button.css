@@ -80,13 +80,13 @@ h4{
     padding-bottom: 15px;
 }
 .background_B{
-    overflow: auto;
+    overflow: visible;
     background-image: url("../田中太郎/backgroundIMG_B.png");
     background-repeat: repeat;
     background-attachment: local;
     background-size: auto;
     padding-top: 15px;
-    padding-bottom: 25px;
+    padding-bottom: 15px;
 }
 .background_O{
     overflow: auto;
@@ -95,7 +95,7 @@ h4{
     background-attachment: local;
     background-size: auto;
     padding-top: 15px;
-    padding-bottom: 25px;
+    padding-bottom: 15px;
 }
 .background_Menu{
     overflow: auto;
