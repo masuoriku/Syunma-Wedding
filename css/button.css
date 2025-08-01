@@ -96,13 +96,13 @@ h4{
     background-image: url("../田中太郎/backgroundIMG_Menu.png");
     background-repeat: repeat;
     background-attachment: local;
-    background-size: auto;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    background-size: cover;
+    background-position: -45px;
+    padding: 100px;
 }
 .background_Drink{
     overflow: auto;
-    background-image: url("../田中太郎/backgroundIMG_Menu.png");
+    background-image: url("../田中太郎/backgroundIMG_Drink.png");
     background-repeat: repeat;
     background-attachment: local;
     background-size: auto;
