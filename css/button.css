@@ -1,5 +1,8 @@
 h1{
     font-family: serif;
+    font-size: 40px;
+    background-color: rgba(255,255,255,0);
+    margin-top: 15px;
 }
 .MoveButton{
     margin-top: 225px;
