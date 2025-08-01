@@ -51,6 +51,8 @@ h2{
     background-repeat: repeat;
     background-attachment: local;
     background-size: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 .background_B{
     overflow: auto;
@@ -58,6 +60,8 @@ h2{
     background-repeat: repeat;
     background-attachment: local;
     background-size: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 .background_O{
     overflow: auto;
@@ -65,4 +69,6 @@ h2{
     background-repeat: repeat;
     background-attachment: local;
     background-size: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
