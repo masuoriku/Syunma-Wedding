@@ -5,8 +5,10 @@ h1{
     margin-top: 15px;
 }
 h2{
-    font-family: "Yu Gothic", "游ゴシック", "YuGothic", sans-serif;
-    font-size: 20px;
+    font-family: "Hiragino Mincho ProN", "Hiragino Mincho", serif;
+    font-size: 15px;
+    color: #444;
+}
 }
 .MoveButton{
     margin-top: 225px;
