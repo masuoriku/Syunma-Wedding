@@ -5,7 +5,7 @@ h1{
     margin-top: 15px;
 }
 h2{
-    font-family: "游ゴシック";
+    font-family: "Yu Gothic", "游ゴシック", "YuGothic", sans-serif;
     font-size: 20px;
 }
 .MoveButton{
