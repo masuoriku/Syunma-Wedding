@@ -105,6 +105,7 @@ h4{
     height: 700px;
     background-size: cover;
     background-position: -60px;
+    padding-top: 20px;
 }
 .background_Drink{
     overflow: visible;
@@ -114,4 +115,5 @@ h4{
     height: 700px;
     background-size: cover;
     background-position: -50px;
+    padding-top: 20px;
 }
