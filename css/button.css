@@ -89,7 +89,7 @@ h4{
     padding-bottom: 15px;
 }
 .background_O{
-    overflow: auto;
+    overflow: visible;
     background-image: url("../田中太郎/backgroundIMG_O.png");
     background-repeat: repeat;
     background-attachment: local;
@@ -98,7 +98,7 @@ h4{
     padding-bottom: 15px;
 }
 .background_Menu{
-    overflow: auto;
+    overflow: visible;
     background-image: url("../田中太郎/backgroundIMG_Menu.png");
     background-repeat: repeat;
     background-attachment: local;
@@ -107,7 +107,7 @@ h4{
     background-position: -60px;
 }
 .background_Drink{
-    overflow: auto;
+    overflow: visible;
     background-image: url("../田中太郎/backgroundIMG_Drink.png");
     background-repeat: repeat;
     background-attachment: local;
