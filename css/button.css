@@ -71,7 +71,7 @@ h4{
     top: 300px;
 }
 .background_W{
-    overflow: auto;
+    overflow: visible;
     background-image: url("../田中太郎/backgroundIMG_W.png");
     background-repeat: repeat;
     background-attachment: local;
