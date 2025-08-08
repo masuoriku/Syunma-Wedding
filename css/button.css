@@ -1,4 +1,4 @@
-body{
+html, body{
     overflow-x: hidden;
 }
 h1{
@@ -66,6 +66,7 @@ body{
 }
 .profileImgDetail{
     width: 280px;
+    max-width: 100%;
 }
 .last{
     position: relative;
@@ -88,6 +89,8 @@ body{
 }
 .background_B{
     overflow: visible;
+    overflow-x: hidden;
+    position: relative;
     background-image: url("../田中太郎/backgroundIMG_B.png");
     background-repeat: repeat;
     background-attachment: local;
@@ -97,6 +100,8 @@ body{
 }
 .background_O{
     overflow: visible;
+    overflow-x: hidden;
+    position: relative;
     background-image: url("../田中太郎/backgroundIMG_O.png");
     background-repeat: repeat;
     background-attachment: local;
